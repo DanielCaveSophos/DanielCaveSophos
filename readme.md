@@ -1,4 +1,4 @@
-# This is me:
+# This is me
 
 I am the GitHub Admin within Sophos. 
 
